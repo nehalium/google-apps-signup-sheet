@@ -14,7 +14,7 @@
 
 ### Add code
 1. Open the Apps Script editor
-1. Add code from this project to
+1. Add the code from this project (no changes necessary)
 
 ### Set up the trigger
 1. Click on Triggers in the Apps Script editor and click on Add Trigger
